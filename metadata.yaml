@@ -1,0 +1,36 @@
+_repo: Onnellinen-prinssi-Ynna-muita-kertomuksia_46922
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setala, Helmi
+    - Setälä, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_issued: '2014-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46922'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Onnellinen prinssi
+
+  Ynnä muita kertomuksia'
+url: http://www.gutenberg.org/ebooks/46922
